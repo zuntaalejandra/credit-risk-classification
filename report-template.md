@@ -14,9 +14,9 @@ This report describes various techniques used to train and evaluate a model base
 
 <p align="center"><img src="https://github.com/zuntaalejandra/credit-risk-classification/blob/main/Credit_Risk/images/input_data.png" /></p>
 
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 
-## stages of the machine learning process
+
+## Stages of the machine learning process
 
 * The main stages of the machine learning process used in this case are:
 
@@ -46,8 +46,7 @@ After that, we will resample the dataset, to train another model and evaluate th
 ## Results of the Analysis
 
 
-* Machine Learning Model 1:
-  * Description of Model 1 Accuracy, Precision, and Recall scores.
+* Machine Learning Model 1 --> Accuracy, Precision, and Recall scores.
 
 The next image describes the prediction values obtained in this model.
 
@@ -59,8 +58,7 @@ The next image includes results for model 1.
 
 
 
-* Machine Learning Model 2:
-  * Description of Model 2 Accuracy, Precision, and Recall scores.
+* Machine Learning Model 2  --> Accuracy, Precision, and Recall scores.
 
 The next image describes the prediction values obtained for model 2.
 
@@ -82,4 +80,4 @@ Based on Classification Report form model 2, the recall result for 1 values is 0
 
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 
-The model must work with great presition, predicting 0 an 1 values as well.  Is is very important.
+A good model must work with great accuracy, predicting 0 an 1 values as well.  Is is very important.
